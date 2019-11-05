@@ -1,0 +1,6 @@
+name: CauseAndEffect
+main: com.stirante.cae.CauseAndEffect
+version: 0.1
+author: stirante
+
+commands:
