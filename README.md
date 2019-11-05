@@ -1,6 +1,6 @@
 # CauseAndEffect
 
-This is a simple plugin, that allows to find out the cause behind a player's damage.
+This is a simple plugin, that allows finding out the cause behind a player's damage.
 
 ### Example
 
